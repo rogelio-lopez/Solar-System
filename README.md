@@ -1,5 +1,5 @@
 # Solar-System
-Solar System with HTML &amp; CSS
+Solar System animation with HTML CSS
 
 Inpired by: 
 - https://codepen.io/juliangarnier/pen/idhuG
